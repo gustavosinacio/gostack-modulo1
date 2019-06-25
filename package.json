@@ -1,0 +1,17 @@
+{
+  "name": "modulo1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:gustavosinacio/gostack-modulo1.git",
+  "author": "Gustavo Inacio <gsinacio94@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
